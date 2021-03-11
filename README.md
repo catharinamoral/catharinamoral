@@ -10,3 +10,4 @@ If you are looking for interesting things about me sorry for the disappointment,
 - 👯 I’m looking to collaborate on projects for the inclusion of women in technology
 - 📫 How to reach me: catharina.moral@gmail.com or [Twitter](https://twitter.com/devcatota)
 - 😄 Pronouns: she/her
+- :heart_eyes_cat: Key words: Education, Creativity, Innovation
