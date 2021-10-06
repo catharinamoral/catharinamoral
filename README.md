@@ -6,7 +6,7 @@ I’m an Java developer, I currently work as a Software Engineer at Avanade. I w
 
 If you are looking for interesting things about me sorry for the disappointment, but currently I only work, study and sleep 😄.
 
-- 🌱 I’m currently learning SCRUM and DevOps
+- 🌱 I’m currently studying SCRUM and DevOps
 - 👯 I’m looking to collaborate on projects for the inclusion of women in technology
 - 📫 How to reach me: catharina.moral@gmail.com 
 - 😄 Pronouns: she/her
