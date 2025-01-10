@@ -2,11 +2,10 @@
 
 ## Hi, I'm Catharina 👋
 
-I’m an Java developer, I currently work as a Software Engineer at Avanade. I work with development a little over a year, I'm still very new in the area but every day I try to learn a little more.
+I’m an Java developer, I currently work as a Software Engineer at Itau.
 
 If you are looking for interesting things about me sorry for the disappointment, but currently I only work, study and sleep 😄.
 
-- 🌱 I’m currently studying SCRUM and DevOps
 - 👯 I’m looking to collaborate on projects for the inclusion of women in technology
 - 📫 How to reach me: catharina.moral@gmail.com 
 - 😄 Pronouns: she/her
